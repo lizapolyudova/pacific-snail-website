@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on Pacific Snail Home</title>
+    <link>http://localhost:1313/reviews/</link>
+    <description>Recent content in Reviews on Pacific Snail Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 body problem</title>
+      <link>http://localhost:1313/reviews/3-body-problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/3-body-problem/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://poetryinphysics.wordpress.com/2016/11/09/a-physicist-responds-to-the-three-body-problem/&#34;&gt;https://poetryinphysics.wordpress.com/2016/11/09/a-physicist-responds-to-the-three-body-problem/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ok the book really picked up in the last 3rd, I was totally wrong. Now I&amp;rsquo;ll have to finish the trilogy! They still have a few hundred years to go until they encounter the aliens.&#xA;I was thinking more about scifi vs fantasy and I think they are pretty similar! Except scifi aesthetics sometimes make dreaming concepts very fun. It reminds me of getting high and doing my math homework. All those multidimensional structures coming into place, ready for me to think about them as I&amp;rsquo;m going to sleep.&#xA;A core concept later in the book is making a computer out of a single proton. I&amp;rsquo;ll tell you about it next time. It&amp;rsquo;s difficult for me to comment on feasibility but it sure is fun to think about.&#xA;I guess scifi has a lot of lore built-in which comes from high school/early college science classes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
