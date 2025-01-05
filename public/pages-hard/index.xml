@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages-Hards on Pacific Snail Home</title>
+    <link>http://localhost:1313/pages-hard/</link>
+    <description>Recent content in Pages-Hards on Pacific Snail Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages-hard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/pages-hard/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages-hard/home/</guid>
+      <description>&lt;h2 id=&#34;home&#34;&gt;&#xA;  Home&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#home&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I am convinced that internet has been colonized in an odd and somewhat unnatural way. Let&amp;rsquo;s maintain our own individual online gardens, here&amp;rsquo;s mine.&lt;/p&gt;&#xA;&lt;p&gt;Here are recent things I am thinking about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;writing more letters to people, somehow I find just the writing process itself very soothing; it brings me joy to think about the fact that I am giving both myself and others a reason to put their thoughts on paper and send them off to be processed by someone else. Just like music is not meant to be constrained to rooms in which we tend top practice it alone, until perfection; speech should not necessarily wait to be perfected until it is shared.&lt;/li&gt;&#xA;&lt;li&gt;mediums for capturing memory. It seems we are more or less in the age of video and images.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Learning French</title>
+      <link>http://localhost:1313/pages-hard/Other/learning-french/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages-hard/Other/learning-french/</guid>
+      <description>&lt;h2 id=&#34;classes&#34;&gt;&#xA;  Classes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#classes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,4 @@
-/Users/lizapolyudova/Documents/shared/website/things to remember.md
+---
+title: Things to remember
+---
+Date: October 2022

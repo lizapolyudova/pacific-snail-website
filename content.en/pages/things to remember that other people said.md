@@ -1,1 +1,10 @@
-/Users/lizapolyudova/Documents/shared/website/things to remember that other people said.md
+---
+TItle: Quotes
+---
+Date: October 2022
+
+I guess I collect quotes now
+
+---
+
+---

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pacific Snail Home</title>
+    <link>http://localhost:1313/pages-hard/Audio/</link>
+    <description>Recent content on Pacific Snail Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/pages-hard/Audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>audio journaling</title>
+      <link>http://localhost:1313/pages-hard/Audio/audio-journaling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages-hard/Audio/audio-journaling/</guid>
+      <description>&lt;p&gt;The idea with audio journaling is the same with journaling - explore your feelings in a freeform way; like musical improvisation, rather than composition.&lt;/p&gt;&#xA;&lt;h2 id=&#34;observation&#34;&gt;&#xA;  Observation&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#observation&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Get a recording device; ideally, not your phone, but phone is fine too. Just set it to airplane mode&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Go outside. Pick a setting you know well which inspires you or go to a new place.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Be in that place, allow yourself to steep in the experience. Treat it as a test tube, notice details&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
