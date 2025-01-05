@@ -24,16 +24,16 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/earliest-and-latest-sunsets-sunrises-and-solstice/</link>
+      <link>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/hello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/earliest-and-latest-sunsets-sunrises-and-solstice/</guid>
-      <description>&lt;h2 id=&#34;preface&#34;&gt;&#xA;  preface&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#preface&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Emily texted me a few days ago: it&amp;rsquo;s the earliest sunset of the year today!&#xA;Funny I thought - solstice is not for another few weeks - which I promptly pointed out to her. Turns out those are distinct phenomena.&lt;/p&gt;&#xA;&lt;p&gt;The day after we meet at a cafe. Both intending to be there at 530 and both arriving an hour early to get some quiet time. Have I had the chance to figure out why it is that the sunset happens before the solstice? Not yet.&#xA;We attempt and earth model with a yarn - it is entirely insufficient. I place my hypotheses:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/hello/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/new-untitled-test/</link>
+      <link>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/side/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/new-untitled-test/</guid>
+      <guid>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/side/</guid>
       <description></description>
     </item>
     <item>
@@ -42,6 +42,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/Moon/</guid>
       <description>&lt;p&gt;Im surprised I didn&amp;rsquo;t already have a section for this. I think I finally somewhat understand declinations of the moon.&#xA;Declination in itself is a simple idea: it&amp;rsquo;s the vertical angle between the (line doing directly up? Idk the name)&#xA;So sun declination through the year ranges from 23N to 23S&lt;/p&gt;&#xA;&lt;p&gt;Moon is more sporadic due to its angled orbit. There&amp;rsquo;s an 18 year cycle which changes max declination from to 28.smth&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>solstice and surrounding events</title>
+      <link>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/earliest-and-latest-sunsets-sunrises-and-solstice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/earliest-and-latest-sunsets-sunrises-and-solstice/</guid>
+      <description>&lt;h2 id=&#34;preface&#34;&gt;&#xA;  preface&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#preface&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Emily texted me a few days ago: it&amp;rsquo;s the earliest sunset of the year today!&#xA;Funny I thought - solstice is not for another few weeks - which I promptly pointed out to her. Turns out those are distinct phenomena.&lt;/p&gt;&#xA;&lt;p&gt;The day after we meet at a cafe. Both intending to be there at 530 and both arriving an hour early to get some quiet time. Have I had the chance to figure out why it is that the sunset happens before the solstice? Not yet.&#xA;We attempt and earth model with a yarn - it is entirely insufficient. I place my hypotheses:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

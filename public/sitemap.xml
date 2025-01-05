@@ -2,7 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/</loc>
+    <lastmod>2022-01-01T00:34:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/Newgrange/</loc>
+    <lastmod>2022-01-01T00:34:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/pages/</loc>
+    <lastmod>2025-01-05T12:35:39-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/archeoastronomy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/hello/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/section/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/section/first-page/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/section/second-page/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/side/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/astronomy/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-01-03T16:11:57-05:00</lastmod>
@@ -10,9 +31,15 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-03T16:11:57-05:00</lastmod>
+    <lastmod>2025-01-05T12:35:39-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/Moon/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/earliest-and-latest-sunsets-sunrises-and-solstice/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
