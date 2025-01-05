@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pacific Snail Home</title>
+    <link>http://localhost:1313/pages/Archeoastronomy/</link>
+    <description>Recent content on Pacific Snail Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:34:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/Archeoastronomy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newgrange</title>
+      <link>http://localhost:1313/pages/Archeoastronomy/Newgrange/</link>
+      <pubDate>Sat, 01 Jan 2022 00:34:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/Archeoastronomy/Newgrange/</guid>
+      <description>&lt;h2 id=&#34;context&#34;&gt;&#xA;  Context&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#context&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Newgrange is a megalithic mound, a man-constructed &amp;ldquo;hill&amp;rdquo; made of layers of stone and dirt with a single passage aligned with the direction of the sunrise on the day of the winter solstice. The structure predates Stonehenge by approximately 2 thousand years and is located about 1 hour north of Dublin.&lt;/p&gt;&#xA;&lt;p&gt;As a friend of mine put it&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;was it 3 people who were obsessed with stars? Were they the weird star geeks? Or was it the entire population. I like imagining a while population all evry organized diligently designing astrological ceremonial thing. But in reality most poeple were like &amp;ldquo;LETS BUILD HUGE STONE AND EARTH THING and then the 1-2% of autistic/nerdy people got obsessed with stars and tracking dates and the other people were like . ok ok that seems like a cool idea and not much extra work. we&amp;rsquo;ll turn the thing around to the point it in the direction you want&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pages/Archeoastronomy/archeoastronomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/Archeoastronomy/archeoastronomy/</guid>
+      <description>&lt;h2 id=&#34;resources&#34;&gt;&#xA;  resources&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#resources&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;  &lt;a href=&#34;https://astro.uni-bonn.de/~pbrosche/hist_astr/ha_items_archaeo.html&#34;&gt;List of other resources&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;  &lt;a href=&#34;https://www.grace.umd.edu/~tlaloc/archastro/&#34;&gt;University of Maryland Center for Archeoastronomy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;  &lt;a href=&#34;https://web.cliveruggles.com/aaj-utp&#34;&gt;Clive Ruggles&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Moon</title>
+      <link>http://localhost:1313/pages/Archeoastronomy/Moon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/Archeoastronomy/Moon/</guid>
+      <description>&lt;p&gt;Im surprised I didn&amp;rsquo;t already have a section for this. I think I finally somewhat understand declinations of the moon.&#xA;Declination in itself is a simple idea: it&amp;rsquo;s the vertical angle between the (line doing directly up? Idk the name)&#xA;So sun declination through the year ranges from 23N to 23S&lt;/p&gt;&#xA;&lt;p&gt;Moon is more sporadic due to its angled orbit. There&amp;rsquo;s an 18 year cycle which changes max declination from to 28.smth&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

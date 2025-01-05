@@ -28,15 +28,20 @@ enableGitInfo = true
 
 [menu]
 # [[menu.before]]
-[[menu.after]]
-  name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
-  weight = 10
+# [[menu.after]]
+#   name = "Github"
+#   url = "https://github.com/alex-shpak/hugo-book"
+#   weight = 10
+#
+# [[menu.after]]
+#   name = "Hugo Themes"
+#   url = "https://themes.gohugo.io/themes/hugo-book/"
+#   weight = 20
 
-[[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/themes/hugo-book/"
-  weight = 20
+[taxonomies]
+  category = 'categories'
+  series = 'series'
+  tag = 'tags'
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
@@ -59,7 +64,7 @@ enableGitInfo = true
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection = 'docs'
+  BookSection = 'pages'
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
