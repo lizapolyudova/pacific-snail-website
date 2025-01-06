@@ -6,8 +6,22 @@
     <description>Recent content in Pages on Pacific Snail Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jan 2025 14:30:06 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 19:22:48 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Letters</title>
+      <link>http://localhost:1313/pages/letters/</link>
+      <pubDate>Sat, 01 Jan 2022 00:05:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/letters/</guid>
+      <description>&lt;p&gt;I recently re-discovered email for myself as a long-form communication medium. Nowadays, I&amp;rsquo;ll take the chance to initiate an email conversation whenever I can. It&amp;rsquo;s nice to give yourself and others a reason to write, especially if the writing is non-academic, freeform and is bound to be read by at least one person.&lt;/p&gt;&#xA;&lt;p&gt;I was recently talking to a friend who said they started writing a &amp;ldquo;newsletter&amp;rdquo; about their life happenings over the course of the last year around winter holidays and bcc&amp;rsquo;ing close friends, which can be a nice conversation starter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Places on the internet</title>
+      <link>http://localhost:1313/pages/places-on-the-internet/</link>
+      <pubDate>Sat, 01 Jan 2022 00:05:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/places-on-the-internet/</guid>
+      <description>&lt;p&gt;I tend to easily forget about cool places on the internet I find in favor of &amp;ldquo;large roads&amp;rdquo;; nothing wrong with reading NYT or HN; I just take a certain joy in visiting online gardens which feel individually kept, like going to the same bookshelf of a library or same beach shore to always find something new.&lt;/p&gt;&#xA;&lt;p&gt;I would go as far as to say this is the reason I started the website (as well as the name of it: gallery of unclosed tabs). I&amp;rsquo;ve made a habit of periodically skimming the tabs on my phone, closing them and making sure I note down any cool webpages I might want to return to.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Quotes</title>
       <link>http://localhost:1313/pages/things-to-remember-that-other-people-said/</link>
@@ -16,11 +30,25 @@
       <description>&lt;p&gt;I guess I collect quotes now&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
+      <title>Things to remember</title>
+      <link>http://localhost:1313/pages/things-to-remember/</link>
+      <pubDate>Sat, 01 Jan 2022 00:05:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/things-to-remember/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Home</title>
       <link>http://localhost:1313/pages/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pages/home/</guid>
       <description>&lt;h2 id=&#34;home&#34;&gt;&#xA;  Home&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#home&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I am convinced that internet has been colonized in an odd and somewhat unnatural way. Let&amp;rsquo;s maintain our own individual online gardens, here&amp;rsquo;s mine.&lt;/p&gt;&#xA;&lt;p&gt;Here are recent things I am thinking about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;writing more letters to people, somehow I find just the writing process itself very soothing; it brings me joy to think about the fact that I am giving both myself and others a reason to put their thoughts on paper and send them off to be processed by someone else. Just like music is not meant to be constrained to rooms in which we tend top practice it alone, until perfection; speech should not necessarily wait to be perfected until it is shared.&lt;/li&gt;&#xA;&lt;li&gt;mediums for capturing memory. It seems we are more or less in the age of video and images.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>trees with faces</title>
+      <link>http://localhost:1313/pages/trees-with-faces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/trees-with-faces/</guid>
+      <description>&lt;div class=&#34;book-tabs&#34;&gt;&#xA;&lt;input type=&#34;radio&#34; class=&#34;toggle&#34; name=&#34;tabs-0&#34; id=&#34;tabs-0-0&#34; checked=&#34;checked&#34; /&gt;&#xA;&lt;label for=&#34;tabs-0-0&#34;&gt;Toronto botanical garden&lt;/label&gt;&#xA;&lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;&lt;div class=&#34;gallery-description&#34;&gt;   &#xA;Cyclop tree. Nightmare fuel. Surprisingly friednly during the day. Hiding in the middle of Toronto  &#xA;&lt;/div&gt;  &#xA;&lt;img src=&#34;http://localhost:1313/img/trees-toronto-2022-10-02.jpg&#34; class=&#34;gallery-image&#34; /&gt;  &#xA;&lt;/div&gt;&#xA;&lt;input type=&#34;radio&#34; class=&#34;toggle&#34; name=&#34;tabs-0&#34; id=&#34;tabs-0-1&#34;  /&gt;&#xA;&lt;label for=&#34;tabs-0-1&#34;&gt;Moores Hall&lt;/label&gt;&#xA;&lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;&lt;div class=&#34;gallery-description&#34;&gt;   &#xA;Gazing solemnly into the lake across it. Invisible from other sides, the face emerges  &#xA;&lt;/div&gt;  &#xA;&lt;img src=&#34;http://localhost:1313/img/moores-hall-2023-03-24.jpg&#34; class=&#34;gallery-image&#34; /&gt;  &#xA;&lt;/div&gt;&#xA;&lt;input type=&#34;radio&#34; class=&#34;toggle&#34; name=&#34;tabs-0&#34; id=&#34;tabs-0-2&#34;  /&gt;&#xA;&lt;label for=&#34;tabs-0-2&#34;&gt;Brussels&lt;/label&gt;&#xA;&lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;&lt;div class=&#34;gallery-description&#34;&gt;   &#xA;Telescoping insect-looking eyes mischievously looking into different sideways.  &#xA;&lt;/div&gt;  &#xA;&lt;img src=&#34;http://localhost:1313/img/trees-brussels-2023-02-10.jpg&#34; class=&#34;gallery-image&#34; /&gt;  &#xA;&lt;/div&gt;&#xA;&lt;input type=&#34;radio&#34; class=&#34;toggle&#34; name=&#34;tabs-0&#34; id=&#34;tabs-0-3&#34;  /&gt;&#xA;&lt;label for=&#34;tabs-0-3&#34;&gt;Killarney&lt;/label&gt;&#xA;&lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;&lt;div class=&#34;gallery-description&#34;&gt;   &#xA;Really wants to be helpful. Spotted slightly off trail in a grove surrounded by his mossy buddies.  &#xA;&lt;/div&gt;  &#xA;&lt;img src=&#34;http://localhost:1313/img/trees-killarney-2023-03-27.jpg&#34; class=&#34;gallery-image&#34; /&gt;  &#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
