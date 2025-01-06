@@ -47,14 +47,14 @@ $hint-colors: (
 }
 
 @mixin theme-green {
-  --gray-100: #8cb6a1;
-  --gray-200: #638172;
-  --gray-500: #314b3e;
+  --gray-100: rgba(246, 170, 233, 0.18);
+  --gray-200: #78e8ae;
+  --gray-500: #addac4;
 
-  --color-link: rgb(56, 101, 152);
+  --color-link: rgb(70, 139, 217);
   --color-visited-link: #7b13b9;
 
-  --body-background: rgba(142, 190, 159, 0.62);
+  --body-background: rgba(95, 143, 96, 0.3);
   --body-font-color: #343030;
 
   --icon-filter: none;

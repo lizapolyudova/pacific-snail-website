@@ -4,7 +4,7 @@ category: home
 ---
 ## Home 
 
-This is my online garden: a corner of the world on the internet I sporadically maintain, plant seeds which grow exposed to the wild unknown and nurture where I get the chance.
+This is my (/[[Digital Garden]]): a corner of the world on the internet I sporadically maintain, plant seeds which grow exposed to the wild unknown and nurture where I get the chance.
 
 Less metaphorically speaking, this is intended to be a blend of:
 * notes I'd like to share with fiends (examples are [[makerspaces]], [[library]])

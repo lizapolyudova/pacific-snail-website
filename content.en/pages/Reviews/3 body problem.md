@@ -1,6 +1,10 @@
 ---
 title: 3 body problem
 Date: 2024-01-01T00:01:00
+tags:
+  - books
+  - scifi
+Category: book
 ---
 
 https://poetryinphysics.wordpress.com/2016/11/09/a-physicist-responds-to-the-three-body-problem/

@@ -1,7 +1,13 @@
 ---
 title: Blood in the machine
+Date: 2024-01-01T00:12:00
+tags:
+  - books
+  - nonfiction
+  - industrial-revolution
+Category: book
 ---
-Date: January 2024
+
 
 ## tone
 I found the narrative somewhat one sided and almost leaning a bit into a propaganda voice, which can be 

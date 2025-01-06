@@ -1,6 +1,10 @@
 ---
 title: Children of time
 Date: 2023-10-01T00:12:00
+tags:
+  - books
+  - scifi
+Category: book
 ---
 ## synopsis
 

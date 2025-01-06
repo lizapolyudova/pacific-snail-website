@@ -16,10 +16,9 @@ I would go as far as to say this is the reason I started the website (as well as
 - [CKUT](https://ckut.ca/) - McGill student independent radio
 - [CISM](https://cism893.ca/) -  independent radio de l'Université de Montréal
 
-## People
+## Digital Gardens 
 
-- [Adriene Lily](https://adriene.net/) - [The Blind Tourist](https://wfmu.org/playlists/TX)
-- [Leo Robinovitch](https://theleo.zone/) is a good friend, who maintains a cool blog and writes a mix of tech stuff and personal notes/blog.
+https://www.mentalnodes.com/a-gardening-guide-for-your-mind - something I find interesting about authors approach is the concept of small inter-connected notes, no table or contents 
 
 ## Uncategorized
 

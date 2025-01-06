@@ -1,15 +1,18 @@
 ---
 title: Ripple
-Category: podcast
+description: investigative journalism piece about the 2013 BP oil spill
 Date: 2024-12-22T11:02:00
+tags:
+  - investigative
+  - environmentalist
+  - podcast
+Category: podcast
 ---
-Date: December 2024
-
-#podast #investigative
 
 Podcast by American western media's [Dan Leone](https://laist.com/people/dan-leone) and is an excellent piece of investigative journalism.
 
-I listened to the flow series (of 8 episodes, about 40 minute each) in what feels like one breath and more realistically was 3 long dark winter evenings. 
+I listened to the flow series (of 8 episodes, about 40 minute each) in what feels like one breath (and more realistically was 3 long dark winter evenings).
+
 The tone established by the first episodes makes the narrative line not quite clear, but clearly communicates the intention of a well-researched piece which will be rich with personal accounts and the narrator's introspective sidenotes. 
 
 The podcast focuses on the aftermath of the BP oil spill 13 years after the incident. First taking a closer look at the incident itself, breaking down how the media narrative was controlled, then diving more deeply not just into environmental repercussions, but long term health effects of the people involved in the cleanup, giving equal attention to legal and medical details of their cases. 

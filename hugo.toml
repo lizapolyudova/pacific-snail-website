@@ -38,11 +38,6 @@ enableGitInfo = true
 #   url = "https://themes.gohugo.io/themes/hugo-book/"
 #   weight = 20
 
-[taxonomies]
-  category = 'categories'
-  series = 'series'
-  tag = 'tags'
-
 [params]
 
   # (Optional, default light) Sets color theme: light, dark or auto.

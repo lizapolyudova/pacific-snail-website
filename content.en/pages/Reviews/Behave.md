@@ -1,14 +1,17 @@
 ---
 title: Behave
+tags:
+  - pop-psychology
+  - books
+Date: 2023-11-01T00:12:00
+Category: book
 ---
-date: January 2, 2024
+
+## reading notes
 
 We don’t passively forget that something is scary. We actively learn that it isn’t anymore.
 
-
 Studies like these clarify that the amygdala isn’t about the pleasure of experiencing pleasure. It’s about the uncertain, unsettled yearning for a potential pleasure, the anxiety and fear and anger that the reward may be smaller than anticipated, or may not even happen.
-
-# notes
 
 ### testosterone 
 Makes one more likely in a way which would maintain a social status. Counter to popular belief, does not increase aggression per se, but makes already aggressive individuals more so

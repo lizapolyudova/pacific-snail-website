@@ -1,6 +1,5 @@
 ---
 title: Letters
-Date: 2022-01-01T00:05:00
 ---
 
 I recently re-discovered email for myself as a long-form communication medium. Nowadays, I'll take the chance to initiate an email conversation whenever I can. It's nice to give yourself and others a reason to write, especially if the writing is non-academic, freeform and is bound to be read by at least one person.
