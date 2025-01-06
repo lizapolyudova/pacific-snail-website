@@ -50,8 +50,9 @@ Pilgrimage of everyday things.
 * Then of course there is Ferdinand Cheval https://en.wikipedia.org/wiki/Ferdinand_Cheval (who told me about him?! was it someone at newgrange? was it Brian? or Paul? who is to say)
 ## Some relevant snippets
 
+### May 2023
 I am thinking about newgrange again. The room I am staying in is an attic apartment. Bed next to a diagonal roof window facing almost directly east. I wake up around 5 each day from the sun (going back promptly to sleep of course). Until 10 or so the sun framed by the window travels across the room. I only have a few more days, but I think I'll track how it progresses through the room, since I have my own personal. "roofbox".
 
-Maybe building of the temple was partly a testament to end of the nomadic lifestyle. Neolithic period (last part of the stone age) is when people started changing from nomadic hunter-gatherers to an agriculture-focused society. I wonder how they tracked the sun when moving from place to place, without the intricate sundials and standing stones. I can attest - sun still rises in the east, but it must have been with a lot less precision that they could predict the seasons changing.
+Maybe building of the temple was partly a testament to end of the nomadic lifestyle. Neolithic period (last part of the stone age) is when people started changing from nomadic hunter-gatherers to an agriculture-focused society (citation needed). I wonder how they tracked the sun when moving from place to place, without the intricate sundials and standing stones. I can attest - sun still rises in the east, but it must have been with a lot less precision that they could predict the seasons changing.
 
 Relevant pages here: [roofbox model](https://pacific-snail.netlify.app/roofbox)
