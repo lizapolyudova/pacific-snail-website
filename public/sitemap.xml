@@ -3,6 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/pages/</loc>
+    <lastmod>2025-03-10T00:12:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/Reviews/Debt-frist-5000-years/</loc>
+    <lastmod>2025-01-01T00:12:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nonfiction/</loc>
+    <lastmod>2025-01-01T00:12:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/Reviews/Ripple-podcast/</loc>
+    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/animation/</loc>
+    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/environmentalist/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/Reviews/Scavengers-Reign/</loc>
@@ -11,13 +29,34 @@
     <loc>http://localhost:1313/pages/Reviews/3-body-problem/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/beautiful/</loc>
+    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/Reviews/Children-of-time/</loc>
+    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/contemplative/</loc>
+    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game/</loc>
+    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/Reviews/Kentucky-Route-Zero/</loc>
+    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/Newgrange/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages-soft/</loc>
+    <loc>http://localhost:1313/pages/letters/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages-soft/website-with-hugo/</loc>
+    <loc>http://localhost:1313/pages/places-on-the-internet/</loc>
+    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/things-to-remember-that-other-people-said/</loc>
+    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/things-to-remember/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/</loc>
@@ -26,19 +65,7 @@
     <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/archeoastronomy/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/hello/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/section/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/section/first-page/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/section/second-page/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/side/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/Audio/</loc>
@@ -47,16 +74,7 @@
     <loc>http://localhost:1313/pages/Audio/section/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/Audio/section/first-page/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/Audio/section/second-page/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/pages/Montreal/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/Montreal/Main/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/Montreal/section/</loc>
@@ -74,26 +92,19 @@
     <loc>http://localhost:1313/pages/Montreal/Verdun/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/planning-page-for-website/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/pages/Reviews/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/Reviews/section/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/Reviews/section/first-page/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+    <loc>http://localhost:1313/pages/Site-Meta/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/Reviews/section/second-page/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+    <loc>http://localhost:1313/pages/Site-Meta/planning-page-for-website/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/website-with-hugo/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+    <loc>http://localhost:1313/pages/Site-Meta/section/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/Reviews/The-anomaly/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+    <loc>http://localhost:1313/pages/Site-Meta/website-with-hugo/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/astronomy/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
@@ -115,31 +126,16 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/Reviews/Children-of-time/</loc>
+    <loc>http://localhost:1313/tags/groups/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/groups/</loc>
+    <loc>http://localhost:1313/pages/home/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-05T12:35:39-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/home/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/Reviews/Infinite-detail/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/Reviews/Kentucky-Route-Zero/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/learning/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/Other/learning-french/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/letters/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/Montreal/library/</loc>
@@ -154,17 +150,12 @@
     <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/Moon/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/places-on-the-internet/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+    <loc>http://localhost:1313/tags/personal_website/</loc>
   </url><url>
     <loc>http://localhost:1313/pages/Montreal/Places-venues-groups/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/things-to-remember-that-other-people-said/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/Reviews/Ripple-podcast/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+    <loc>http://localhost:1313/tags/project/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url><url>
@@ -174,16 +165,13 @@
     <loc>http://localhost:1313/pages/Astronomy-and-Archeoastronomy/earliest-and-latest-sunsets-sunrises-and-solstice/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/Reviews/The-mushroom-at-the-end-of-the-world/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pages/things-to-remember/</loc>
-    <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+    <loc>http://localhost:1313/tags/technology/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/to-do/</loc>
     <lastmod>2025-01-05T14:30:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/trees-with-faces/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/website/</loc>
   </url>
 </urlset>

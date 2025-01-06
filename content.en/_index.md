@@ -1,8 +1,6 @@
 ---
-title: Home
-type: home
+title: Introduction
+type: docs
 ---
 
-## Home
-
-this is the home page!
+{{% include "pages/home.md" %}}

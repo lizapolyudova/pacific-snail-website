@@ -1,1 +1,0 @@
-/Users/lizapolyudova/Documents/shared/website/letters.md

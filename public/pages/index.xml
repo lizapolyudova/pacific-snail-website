@@ -9,18 +9,11 @@
     <lastBuildDate>Sun, 05 Jan 2025 14:30:06 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/pages/planning-page-for-website/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/planning-page-for-website/</guid>
-      <description>&lt;p&gt;#personal_website&#xA;#project #technology #personal #website&lt;/p&gt;&#xA;&lt;h2 id=&#34;currently-working-on&#34;&gt;&#xA;  Currently working on&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#currently-working-on&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-tasks&#34; data-lang=&#34;tasks&#34;&gt;not done&#xA;path includes website&#xA;group by priority&#xA;group by tags&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;todos&#34;&gt;&#xA;  Todos&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#todos&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; background image #visual&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; hand-drawn diagram for the audio journal (possibly interactive?) #visual&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; cartoons of the trees overlayed on top #visual&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; work on the newgrange page #writing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;some of these require ipad/other drawing medium&lt;/p&gt;&#xA;&lt;h2 id=&#34;general&#34;&gt;&#xA;  General&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#general&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;statement&#34;&gt;&#xA;  statement&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#statement&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;space for hosting my content online.&#xA;An online garden, which is cultivated by content I find myself sharing most with people in my life. Collection of information I would like to invite people into.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/pages/website-with-hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/website-with-hugo/</guid>
-      <description>&lt;p&gt;#website&lt;/p&gt;&#xA;&lt;h2 id=&#34;mindset&#34;&gt;&#xA;  mindset&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mindset&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Remember; your goal for now - is not to fill things up with content so it looks like &amp;ldquo;a lot&amp;rdquo;. I think the goal should be to have things be approached one at a time.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Be able to publish the website with most things marked as &amp;ldquo;drafts&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;figure out how to hook up my 3js animation ()&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;currently-working-on&#34;&gt;&#xA;  currently working on&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#currently-working-on&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; get running on netlify &#xA;  &lt;a href=&#34;https://docs.netlify.com/frameworks/hugo/&#34;&gt;link&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; include images #devops&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; render latex #framework&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; date metadata #framework ⏫&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &amp;ldquo;hidden&amp;rdquo;   -&amp;gt; implemented as boolean &amp;ldquo;darft&amp;rdquo; field ✅ 2025-01-04&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; obsidian-internal references as shortcodes possibly? #framework&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Next steps:&lt;/p&gt;</description>
+      <title>Quotes</title>
+      <link>http://localhost:1313/pages/things-to-remember-that-other-people-said/</link>
+      <pubDate>Sat, 01 Jan 2022 00:05:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/things-to-remember-that-other-people-said/</guid>
+      <description>&lt;p&gt;I guess I collect quotes now&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Home</title>
@@ -28,41 +21,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pages/home/</guid>
       <description>&lt;h2 id=&#34;home&#34;&gt;&#xA;  Home&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#home&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I am convinced that internet has been colonized in an odd and somewhat unnatural way. Let&amp;rsquo;s maintain our own individual online gardens, here&amp;rsquo;s mine.&lt;/p&gt;&#xA;&lt;p&gt;Here are recent things I am thinking about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;writing more letters to people, somehow I find just the writing process itself very soothing; it brings me joy to think about the fact that I am giving both myself and others a reason to put their thoughts on paper and send them off to be processed by someone else. Just like music is not meant to be constrained to rooms in which we tend top practice it alone, until perfection; speech should not necessarily wait to be perfected until it is shared.&lt;/li&gt;&#xA;&lt;li&gt;mediums for capturing memory. It seems we are more or less in the age of video and images.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Learning French</title>
-      <link>http://localhost:1313/pages/Other/learning-french/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/Other/learning-french/</guid>
-      <description>&lt;h2 id=&#34;classes&#34;&gt;&#xA;  Classes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#classes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Letters</title>
-      <link>http://localhost:1313/pages/letters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/letters/</guid>
-      <description>&lt;p&gt;Date: October 2022&lt;/p&gt;&#xA;&lt;p&gt;I recently re-discovered email for myself as a long-form communication medium. Nowadays, I&amp;rsquo;ll take the chance to initiate an email conversation whenever I can. It&amp;rsquo;s nice to give yourself and others a reason to write, especially if the writing is non-academic, freeform and is bound to be read by at least one person.&lt;/p&gt;&#xA;&lt;p&gt;I was recently talking to a friend who said they started writing a &amp;ldquo;newsletter&amp;rdquo; about their life happenings over the course of the last year around winter holidays and bcc&amp;rsquo;ing close friends, which can be a nice conversation starter.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Places on the internet</title>
-      <link>http://localhost:1313/pages/places-on-the-internet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/places-on-the-internet/</guid>
-      <description>&lt;p&gt;Date: October 2022&lt;/p&gt;&#xA;&lt;p&gt;I tend to easily forget about cool places on the internet I find in favor of &amp;ldquo;large roads&amp;rdquo;; nothing wrong with reading NYT or HN; I just take a certain joy in visiting online gardens which feel individually kept, like going to the same bookshelf of a library or same beach shore to always find something new.&lt;/p&gt;&#xA;&lt;p&gt;I would go as far as to say this is the reason I started the website (as well as the name of it: gallery of unclosed tabs). I&amp;rsquo;ve made a habit of periodically skimming the tabs on my phone, closing them and making sure I note down any cool webpages I might want to return to.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quotes</title>
-      <link>http://localhost:1313/pages/things-to-remember-that-other-people-said/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/things-to-remember-that-other-people-said/</guid>
-      <description>&lt;p&gt;Date: October 2022&lt;/p&gt;&#xA;&lt;p&gt;I guess I collect quotes now&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;</description>
-    </item>
-    <item>
-      <title>Things to remember</title>
-      <link>http://localhost:1313/pages/things-to-remember/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/things-to-remember/</guid>
-      <description>&lt;p&gt;Date: October 2022&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
