@@ -1,9 +1,11 @@
 ---
-Date: 2025-03-10T00:12:00
+Date: 2024-03-10T00:12:00
 tags:
   - books
   - fantasy
 Category: book
+title: earthsea cycle
+draft:
 ---
 
 I recently went back and read Ursula Le Guin's Earthsea cycle; What I find interesting is that she didn't write all 5 books in one sitting - and that maturity distance really shows. The first 3 books are really adventure-focused, very classically male-hero (even if imbued with elegant and heartfelt wisdom) driven; all written in the span of 4 years - 1968 ro 1972. Then there's a 4th book fully focused on a heroine who was a magical being in book 2 but pursued a "simple life" and is now more or less going through a midlife crisis and questioning her place in society and her past. Not much novel time has passed, but this no longer feels like a young adult adventure novel; published in 1990 - 18 years after the 3rd book, those who grew up with the first 3 books now would be ready to face quite different questions.
