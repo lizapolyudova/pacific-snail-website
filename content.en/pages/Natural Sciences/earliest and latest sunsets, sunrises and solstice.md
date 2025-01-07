@@ -2,7 +2,6 @@
 title: solstice and surrounding events
 tags:
   - astronomy
-  - learning
 description: earliest and latest sunsets, sunrises and solstice
 ---
 

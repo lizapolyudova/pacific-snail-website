@@ -1,5 +1,7 @@
 ---
 title: Moon
+tags:
+  - astronomy
 ---
 ## phases of the moon
 

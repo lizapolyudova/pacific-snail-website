@@ -1,6 +1,5 @@
 ---
 title: Places on the internet
-Date: 2022-01-01T00:05:00
 ---
 
 I tend to easily forget about cool places on the internet I find in favor of "large roads"; nothing wrong with reading NYT or HN; I just take a certain joy in visiting online gardens which feel individually kept, like going to the same bookshelf of a library or same beach shore to always find something new.

@@ -17,7 +17,7 @@ draft: true
 * Sacred harp meets on Tuesday at 7pm
 
 * art tours ?
-* street art/mural tour #streetart #art 
+* street art/mural tour #streetart 
 	* https://wall2wallmtl.com/2022/05/11/guided-tours-of-montreal-street-art-and-graffiti/ 
 	* legal graffiti walls [link](https://www.legal-walls.net/country/canada)
 

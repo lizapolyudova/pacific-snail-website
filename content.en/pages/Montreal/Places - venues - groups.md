@@ -2,12 +2,10 @@
 title: Places, venues and groups
 tags:
   - montreal
-  - to-do
   - groups
   - social
+Date: 2024-08-01T00:12:00
 ---
-
-Date: August 2024
 ## Explore more
 
 ## Want to go

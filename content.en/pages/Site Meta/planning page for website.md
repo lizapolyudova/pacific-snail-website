@@ -1,14 +1,10 @@
 ---
 tags:
-  - personal_website
   - project
   - technology
   - website
 draft: true
 ---
-
-#personal_website 
-#project #technology #personal #website
 
 ##  Currently working on
 
