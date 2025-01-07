@@ -11,9 +11,11 @@ draft: true
 #project #technology #personal #website
 
 ##  Currently working on
+
 ```tasks
 not done
 path includes website
+tag does not include writing 
 group by priority
 group by tags
 
