@@ -2,6 +2,12 @@
 title: Libraries
 ---
 
+{{% aside %}}
+in recent news! Emily suggests we do a library bingo! maybe something like "what can be loaned at a library and you go on a scavenger hunt" with friends? who knows. I'll keep you posted
+
+- [ ] library bingo #ideas
+{{% /aside %}}
+
 Libraries need no introduction. They are the unsung hero of providing community and free (!) entertainment for the local population. 
 
 Get your library card and go exploring! Here are some of my favorite libraries in Montreal

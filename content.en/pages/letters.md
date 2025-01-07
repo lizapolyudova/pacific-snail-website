@@ -15,6 +15,6 @@ The kind where a friend asks you whether it would be ok for them to add you to t
 
 The kind which is a nice surprise and a reminder that we still write prose for each other's small sets of familiar eyes. The kind which is genuine and [writes about art](obsidian://open?vault=shared&file=writing%20about%20art)
 
-### Early email days
+## Early email days
 
 My friends and I had written lengthy emails to each other, about our weddings, what we were doing, the early days of parenthood. It was like finding a treasure trove of letters. And some of these were with friends that I lived in the same city with, and saw regularly. Maybe they were just a product of having desk jobs? The transactionality of text wasn't dominant then? I can't fully explain it, but nonetheless, I miss those nutrient-dense emails
