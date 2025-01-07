@@ -7,13 +7,9 @@ tags:
   - beautiful
 ---
 
-## intro
-
-sdfjksdfksdjfkdsjh
 ## timeline
-I started playing on Paul's recommendation.. avoiding thinking about some things (flag-poling, starting job soon, procrastinating on responding to emails)
-
-So far it's very surreal (in act 2 so far)
+I started playing on a recommendation.. avoiding thinking about some things
+So far it's very surreal (act II)
 
 ## act I & II
 The interlude between act 1 and 2 included a gallery showing and 3 people interacting with it. One of the pieces is an interactive piece with audiotape glued on a canvas arranged as a narrative you can navigate by rolling the tapehead. for choices instructions are given in "turn n degrees" at crossroads. Such a cool concept. 

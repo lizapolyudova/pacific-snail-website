@@ -6,9 +6,18 @@ I recently re-discovered email for myself as a long-form communication medium. N
 
 I was recently talking to a friend who said they started writing a "newsletter" about their life happenings over the course of the last year around winter holidays and bcc'ing close friends, which can be a nice conversation starter.
 
+## Newsletters
+Ah, not the kind from your "local" target or a Bath and Body Works (or whatever you happened to signed up for before you were wise enough not to trade your personal email for a small discount, which since has been shamelessly ignoring your "Unsubscribe me" pleas)
+
+No.
+
+The kind where a friend asks you whether it would be ok for them to add you to their end-of-year summary and your whole-heartedly and without hesitation text "Of course!"
+
+The kind which is a nice surprise and a reminder that we still write prose for each other's small sets of familiar eyes. The kind which is genuine and [writes about art](obsidian://open?vault=shared&file=writing%20about%20art)
+
 ### Ursula Le Guin - Earthsea
 
-I find that I share this quote with the surrounding thought quite a lot
+I find that I share this quote from [[Earthsea Cycle]] with the surrounding thought quite a lot
 
 I recently went back and read Ursula Le Guin's Earthsea cycle; What I find interesting is that she didn't write all 5 books in one sitting - and that maturity distance really shows. The first 3 books are really adventure-focused, very classically male-hero (even if imbued with elegant and heartfelt wisdom) driven; all written in the span of 4 years - 1968 ro 1972. Then there's a 4th book fully focused on a heroine who was a magical being in book 2 but pursued a "simple life" and is now more or less going through a midlife crisis and questioning her place in society and her past. Not much novel time has passed, but this no longer feels like a young adult adventure novel; published in 1990 - 18 years after the 3rd book, those who grew up with the first 3 books now would be ready to face quite different questions.
 

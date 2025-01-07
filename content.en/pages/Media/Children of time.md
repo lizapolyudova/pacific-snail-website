@@ -4,8 +4,12 @@ Date: 2023-10-01T00:12:00
 tags:
   - books
   - scifi
+  - favorites
 Category: book
 ---
+please warned there will be spoilers.
+
+Probably one of my favorite recent science fiction books. Excellent world building, 
 ## synopsis
 
 ## themes 
@@ -19,9 +23,7 @@ Gender equality. Matriarchal society does not mean good, the level to which male
 
 Fascinating also is the decoupling of carrying offspring from being in a subservient position. Females are stronger and thus they succeed in the barbaric society, the tradition carries over because as we know oppressors are not interested in uplifting the oppressed.
 
-Fabian’s power play in 5.4 is excellent, first explicit display of a demand for rights. It is likely worth drawing parallels between the plague and wwii for the US which caused many women to enter the workforce and change the narrative about the weaker sex,
-
-
+Fabian’s power play in 5.4 is excellent, first explicit display of a demand for rights. It is likely worth drawing parallels between the plague and WWII for the US which caused many women to enter the workforce and change the narrative about the weaker sex.
 
 ### nature of guidance 
 
@@ -32,7 +34,6 @@ Humans in Holsten’s time, following examples of the ancients. Trying to catch 
 Portia’s people, in the time following successful communication with the messenger, start to receive instructions on building technology clearly templated after ancient human technology, as well. It is counter to their nature to harvest metal or use it for their technologies and communications; yet, the force of having not just organized religion but a present live god, the creator be the command issuer makes resistance a strange and difficult task.
 
 Finally,there’s Guyen creating a cult; possibly following in kerns steps, maybe not. His soliloquies about messianic ambitions of leading his people to the promise land might be true, might not be. I loved the Image of someone who sets up a cult on the premise that they are a god, goes into cryogenic sleep and then wakes up to being told they are s god. Over time, with enough iterations the delusion might take very deep. 
-
 
 ### messages 
 In other somewhat related news to inferiority of genders and such, the book I am reading now established a matriarchal society with largely disposable male figures. The book traces almost a millenium of their societal evolution and eventually the females in charge come to terms with males having feelings and needs and being able to carry genetic information (for a while they believed only female bloodlines carried information in their proto-gene theory). 
