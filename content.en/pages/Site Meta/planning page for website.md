@@ -21,7 +21,7 @@ group by tags
 
 
 ## Todos
-- [ ] background image #visual
+- [ ] background image, especially for select poetry pages #visual
 - [ ] hand-drawn diagram for the audio journal (possibly interactive?) #visual
 - [ ] cartoons of the trees overlayed on top #visual
 

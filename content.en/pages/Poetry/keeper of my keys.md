@@ -5,10 +5,10 @@ The keeper of my soul and keys
 To whom do I return when you no longer wish to carry
 The weight I thought a gift
 
-That leafy pet you keep that's tilting
-Reaching for the sun
-I turn as thought when scarcity
-Is evenly applied can be undone
+That leafy pet you keep that's tilting,
+Reaching for the sun -
+I turn; as though, when scarcity
+Is evenly applied - can be undone.
 
 And yearning will be tamed
 And straighten out the pitiful

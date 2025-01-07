@@ -4,7 +4,7 @@ category: home
 ---
 ## Home 
 
-This is my (/[[Digital Garden]]): a corner of the world on the internet I sporadically maintain, plant seeds which grow exposed to the wild unknown and nurture where I get the chance.
+This is my ([[Digital Garden]]): a corner of the world on the internet I sporadically maintain, plant seeds which grow exposed to the wild unknown and nurture where I get the chance.
 
 Less metaphorically speaking, this is intended to be a blend of:
 * notes I'd like to share with fiends (examples are [[makerspaces]], [[library]])
@@ -13,8 +13,8 @@ Less metaphorically speaking, this is intended to be a blend of:
 
 Here are recent things I am thinking about:
 
-- [ ]  Personal museums. Human tendency to drag everything they love into their home. We decorate by brining what we love most on the outside in. We go on journeys and bring back postcards, magnets, rocks.
-- [ ] Upcycling art. Trying hard to come up with projects which can make use of my increasingly growing and increasingly varied collection of "trash". What is trash anyway?
+- [ ] [[personal museums]]. Human tendency to drag everything they love into their home. We decorate by brining what we love most on the outside in. We go on journeys and bring back postcards, magnets, rocks.
+- [ ] [[Upcycling art]]. Trying hard to come up with projects which can make use of my increasingly growing and increasingly varied collection of "trash". What is trash anyway?
 
 ## technical info
 * built using [hugo](https://gohugo.io/) static site generator ([book theme](https://themes.gohugo.io/themes/hugo-book/))

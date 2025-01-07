@@ -1,6 +1,9 @@
 ---
 title: trees with faces
 ---
+The concept is simple: they are trees which look like they have faces. I went through a portion of my life seeing them everywhere (in retrospect, it was a lonely time, maybe my face recognition bit was just overly eager). Nonetheless, here are some trees with faces.
+
+If you want to make a submission of a tree with a face, send it to pacific.snail@protonmail.com
   
 {{% tabs %}}  
 {{% tab "Toronto botanical garden" %}}  

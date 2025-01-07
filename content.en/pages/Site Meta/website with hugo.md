@@ -17,6 +17,7 @@ Remember; your goal for now - is not to fill things up with content so it looks 
 Next steps:
 - [x] get the site running locally #devops ✅ 2025-01-05
 - [x] import content ✅ 2025-01-04
+- [ ] [[jupyter notebooks in hugo]] which produce images/graphs etc? #devops
 ## references
 
 [installation instructions](https://gohugo.io/getting-started/quick-start/)
