@@ -27,7 +27,7 @@ Fabian’s power play in 5.4 is excellent, first explicit display of a demand fo
 
 ### nature of guidance 
 
-It is about agency, how directing oneself is a profoundly different experience from being directed, especially with determination and certsinty based on experiences entirely different from your own.
+It is about agency, how directing oneself is a profoundly different experience from being directed, especially with determination and certainty based on experiences entirely different from your own.
 
 Humans in Holsten’s time, following examples of the ancients. Trying to catch up with the ever elusive past of infinitely sophisticated technology run into the same problems the ancients did - resource constrains, draining their natural environment. I guess externalities did not make it into the history books. They are guided by shadows of giants from the past.
 
