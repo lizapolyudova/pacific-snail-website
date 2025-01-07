@@ -37,7 +37,6 @@ hugo file structure looks like this:
 │   ├── pages-soft -> /Users/snail/Documents/obsidian-root/website
 │   └── posts
 ├── data
-...
 
 ```
 

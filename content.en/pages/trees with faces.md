@@ -17,7 +17,7 @@ Cyclop tree. Nightmare fuel. Surprisingly friednly during the day. Hiding in the
 <div class="gallery-description">   
 Gazing solemnly into the lake across it. Invisible from other sides, the face emerges  
 </div>  
-<img src="/img/moores-hall-2023-03-24.jpg" class="gallery-image" />  
+<img src="/img/trees-moores-hall-2023-03-24.jpg" class="gallery-image" />  
 {{% /tab %}}  
   
 {{% tab "Brussels" %}}  

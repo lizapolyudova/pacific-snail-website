@@ -1,5 +1,5 @@
 ---
-title: Turning Point - an ode to Boston Visit
+title: Turning Point
 ---
 
 October 2022
