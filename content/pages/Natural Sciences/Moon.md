@@ -58,5 +58,5 @@ I think we are close to a major standstill next year
 
 
 ### references 
-- http://www.bajr.org/BAJRread/BAJRGuides.asp# (specifically [[archeoastronomy]] guide )
+- http://www.bajr.org/BAJRread/BAJRGuides.asp# (specifically [archeoastronomy]({{< ref "archeoastronomy" >}}) guide )
 - https://www.umass.edu/sunwheel/pages/moonteaching.html

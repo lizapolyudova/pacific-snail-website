@@ -1,4 +1,4 @@
-on [[essays-writing/How we listen#requiring silence|requiring silence]]
+on [essays-writing/How we listen#requiring silence|requiring silence]({{< ref "essays-writing/How we listen#requiring silence|requiring silence" >}})
 
 ```
 I recorded almost perfect silence 

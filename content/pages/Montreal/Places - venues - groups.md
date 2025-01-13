@@ -16,7 +16,7 @@ Date: 2024-08-01T00:12:00
 * la systeme - sometimes have cool events, mostly a bar/dance club thing?
 ## Singing
 
-* sacred harp - every tuesday 7-9pm
+* [Sacred harp]({{< ref "Sacred harp" >}}) - every tuesday 7-9pm
 
 ## Poetry
 * [throw poetry collective](https://throwpoetrycollective.wordpress.com/) - open mic every month (first saturday on the month if I recall correctly. Check website for better info). 

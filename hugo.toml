@@ -4,6 +4,10 @@ baseURL = 'https://pacific-snail.netlify.app/'
 title = 'Pacific Snail Home'
 theme = 'hugo-book'
 
+# config.toml:
+refLinksErrorLevel = "WARNING"
+
+
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
@@ -20,11 +24,6 @@ enableGitInfo = true
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-[languages]
-[languages.en]
-  languageName = 'English'
-  contentDir = 'content.en'
-  weight = 1
 
 [menu]
 # [[menu.before]]
@@ -108,3 +107,4 @@ enableGitInfo = true
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   BookTranslatedOnly = false
+

@@ -20,7 +20,7 @@ I would go as far as to say this is the reason I started the website. I've made 
 
 ## Uncategorized
 
-- [[Syllabus Project]]
+- [Syllabus Project]({{< ref "Syllabus Project" >}})
 - [LearnTarot](http://learntarot.com/)
 
 ## Montreal

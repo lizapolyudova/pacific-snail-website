@@ -4,6 +4,7 @@ tags:
   - technology
   - website
 draft: true
+status: active
 ---
 
 ##  Currently working on
@@ -25,9 +26,9 @@ group by tags
 
 Content I want to focus on
 
-- [ ] [[Newgrange]] #writing ⛔ xi10wd
-- [ ] [[Earthsea Cycle]] #writing
-- [ ] [[tide experient simulation]] #programming
+- [ ] [Newgrange]({{< ref "Newgrange" >}}) #writing ⛔ xi10wd
+- [ ] [Earthsea Cycle]({{< ref "Earthsea Cycle" >}}) #writing
+- [ ] [tide experient simulation]({{< ref "tide experient simulation" >}}) #programming
 
 some of these require ipad/other drawing medium
 ## General
@@ -68,7 +69,7 @@ Think of how you used to explain things to newcomers at voltus - channel that en
 ## tech stack
 potential alternatives
 
-- [[website with hugo]]
--  [[raw HTML website, but with markdown -> HTML processor]]
+- [website with hugo]({{< ref "website with hugo" >}})
+-  [raw HTML website, but with markdown -> HTML processor]({{< ref "raw HTML website, but with markdown -> HTML processor" >}})
 ### deprecated
 fully hand-crafted html and CSS... the overhead is too great?

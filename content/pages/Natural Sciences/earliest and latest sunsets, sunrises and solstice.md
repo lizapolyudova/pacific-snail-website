@@ -59,7 +59,7 @@ I stumbled upon [this reddit thread](https://www.reddit.com/r/askscience/comment
 
 ## fact checking
 
-[[sunset and sunrise plots]] is a related idea I had about expressing intuition in a graphic. Which apparently is non-trivial given that there's [a whole wikipedia page]( https://en.wikipedia.org/wiki/Sunrise_equation) on the "sunrise equation"
+[sunset and sunrise plots]({{< ref "sunset and sunrise plots" >}}) is a related idea I had about expressing intuition in a graphic. Which apparently is non-trivial given that there's [a whole wikipedia page]( https://en.wikipedia.org/wiki/Sunrise_equation) on the "sunrise equation"
 
 In addition to that - next thing I am learning that even my hypothesis about sunset/sunrise being sin waves is almost entirely wrong. Taking a look at the solartopo[3] link at something closer to the equator, the sunrise/sunset times more closely resemble a sum of multiple curves? I'd love to try and deconstruct it...
 ## links
