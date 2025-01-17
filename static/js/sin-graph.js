@@ -1,19 +1,35 @@
 const paramMap = new Map();
-paramMap.set('rise', 'value-rise');
-paramMap.set('riseBase', 'value-rise-base');
-paramMap.set('set', 'value-set');
-paramMap.set('setBase', 'value-set-base');
-paramMap.set('theta', 'value-theta')
+paramMap.set('rise', {
+    id:'value-rise',
+    formula: 'A_{rise}',
+});
+paramMap.set('riseBase', {
+    id:'value-rise-base',
+    formula: 'B_{rise}',
+});
+paramMap.set('set', {
+    id:'value-set',
+    formula: 'A_{set}',
+});
+paramMap.set('setBase',{
+    id:'value-set-base',
+    formula: 'B_{set}',
+});
+paramMap.set('theta',{
+    id:'value-theta',
+    formula: '\\theta',
+})
+
 
 
 function addParams() {
     let params = document.getElementById("graph-input");
 
     function  inputParam (paramName) {
-        const text = `A_{${paramName}}`;
-        let textNode = document.createTextNode(`$${text}$ = `);
+        const formula = paramMap.get(paramName).formula;
+        let textNode = document.createTextNode(`$${formula}$ = `);
         let node = document.createElement("input");
-        node.id = paramMap.get(paramName);
+        node.id = paramMap.get(paramName).id;
         node.type = 'text';
         params.appendChild(textNode);
         params.appendChild(node)

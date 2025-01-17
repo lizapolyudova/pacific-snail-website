@@ -27,6 +27,21 @@ We start plotting.
 Here's a sin wave for the sunrise. Starting at the fall equinox. going up (hours on the day) towards winter solstice and falling back down through "zero" towards summer solstice for its earliest (or so I think at the time) - point. Let's call this one point of reference
 
 
+{{% aside %}}
+parameter naming guide: 
+
+
+* $A$ corresponds to amplitude - sunrise and sunset get individual values
+* $B$ corresponds to baseline (sunset and sunset get different ones)
+* $\theta$ is the possible offset between periods of the two.
+
+In this model, we are assuming that sunrise and sunset are both always sinusoid curves. The first graph displays sunset in red and sunrise in blue; the second graph displays difference between the two.
+
+For example, if earliest sunset occurs at 5pm and latest at 10pm,
+you could set the baseline to 7.5 and amplitude to 2.5.
+
+{{% /aside %}}
+
 <div id="graph-input">  </div>  
 
 
