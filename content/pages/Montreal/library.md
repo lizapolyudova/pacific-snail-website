@@ -53,3 +53,13 @@ The also have musical instrument loans and a lot of sheet music!
 [link](https://montreal.ca/en/places/bibliotheque-loctogone)
 
 giant library, a nice ride away down the canal or the river towards 
+
+
+## Requests for purchase
+
+I forget where I heard it first, but a librarian more or less was doing a call for people to request resources they wanted to borrow at the library!
+As much as I love the montreal library... they don't have a lot of the books I'd like to read. 
+Here's a running list of books I've made a request to purchase:
+
+* Amusing ourselves to death (Neil Postman)
+* Ecology of freedom (Murray Bookchin)

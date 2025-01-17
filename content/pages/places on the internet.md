@@ -9,7 +9,7 @@ I would go as far as to say this is the reason I started the website. I've made 
 
 - [SomaFM](https://somafm.com)
 - [KALX - UC Berkeley Radio](https://www.kalx.berkeley.edu/)
-- [WFMU - Freeform Radio based in Jersey City](https://wfmu.org/)
+- [WFMU - Independent Radio based in Jersey City](https://wfmu.org/)
 - [CKUT](https://ckut.ca/) - McGill student independent radio
 - [CISM](https://cism893.ca/) -  independent radio de l'Université de Montréal
 
@@ -21,11 +21,9 @@ I would go as far as to say this is the reason I started the website. I've made 
 ## Uncategorized
 
 - [Syllabus Project]({{< ref "Syllabus Project" >}})
-- [LearnTarot](http://learntarot.com/)
 
 ## Montreal
 * [Nelligan Catalogue](https://nelligandecouverte.ville.montreal.qc.ca/iii/encore/?lang=frc)  - Montreal public libraries catalogue
 
 ## Personal / Social
 * [storygraph link](https://app.thestorygraph.com/profile/pacificsnail)
-* 

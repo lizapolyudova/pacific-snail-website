@@ -4,10 +4,9 @@ tags:
   - nonfiction
   - housing
 Date: 2025-01-12T22:01:00
+draft: false
 ---
-```tasks
-path includes tenant
-```
+
 Starting reading this on friend's recommendation
 ## quotes and points
 
@@ -34,8 +33,23 @@ There's also this comment on
 
 This is such a deep and uncomfortable thought. Vacancy rates in this sense are just indicators of landlords being too stubborn to bring down the price and instead holding out for a higher-paying tenant
 
+### pieces of history
+#### prince edward island 19th century
+at the end of 18th century british crown split Prince Edward Island into 66 plots and assigned them to British people with "established interest in the region". Many did not live on the island and never set foot on the island even after being given the land. Instead, they started collecting rent from the existing "tenants" living on their land who have built their houses and worked the land. With rents being unreasonable, "Tenant League" was formed which demanded that tenants be able to buy the land from the landlords. After some backlash and struggle, a law was passed legislation dispossessing absentee landlords.
+
+
+#### Montreal 1960-1970
+Habitation Jean Mance
+was built as a large social housing unit; however, came with a large set of conditions for the tenants. In attempt to organize and improve the living conditions, some of the tenants were evicted (a 5-day notice was not uncommon)
+
+
+
 ## questions
 
 - [ ] something I am curious coming to this book is whether enough nuance will be provided for the case of the landlords themselves. 
 What I would be interested in is seeing economics-wise how interest rates affect mortgages and why landlords choose to let those be absorbed by the tenants directly rather than absorb some of the costs themselves. (well... we know why)
 
+## mentions
+ * [radical housing journal](https://radicalhousingjournal.org/)
+ * The tenant league of prince edward island
+ *  lutter pour un toit: douze bataiiles puor le logement au quebec

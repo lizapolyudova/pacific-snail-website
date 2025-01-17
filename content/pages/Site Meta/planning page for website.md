@@ -28,7 +28,7 @@ Content I want to focus on
 
 - [ ] [Newgrange]({{< ref "Newgrange" >}}) #writing ⛔ xi10wd
 - [ ] [Earthsea Cycle]({{< ref "Earthsea Cycle" >}}) #writing
-- [ ] [tide experient simulation]({{< ref "tide experient simulation" >}}) #programming
+- [ ] [astronomy interactive simulation]({{< ref "astronomy interactive simulation" >}}) #programming
 
 some of these require ipad/other drawing medium
 ## General
