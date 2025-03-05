@@ -8,9 +8,19 @@ tags:
   - octopus
   - language
 ---
-I love that this book is filled with quotes of a fictional book that makes me interested in the protagonist I would otherwise not feel as close to, this is a great example of 'show don't tell'; show me the lonely genius scientists feels a connection to the octopuses and really admires and believes in a world in which they build a culture by quoting her book, don't just tell me she cares - ingenious. 
+## intro / thoughts
+The book is set in a fictional (not very distant) future in which a large tech (monopoly I think?) has developed a single general AI android which was quickly banned by most countries and no more will be made. At the same time, the world is filled with machines equipped with highly specialized AI which are fairly advanced.
 
-I was concerned reading this as it contains two relatively "trendy" topics - AI and octopus intelligence. While I can't say I found revolutionary insights, it was a nice meditation on the nature of intelligence and consciousness. Considering the physically distributed nature of an octopuses nervous system, one cannot help but wonder whether human fixation on hierarchies might be in part due to mirroring our own biology  
+Much of the narrative focuses on a remote island where our several protagonists attempt to make first contact with what is presumed to be a civilization of highly intelligent octopuses.
+
+There's also two other major plot lines, which I will not mention here, but I found tie in nicely into the narrative.
+
+I was concerned reading this as it contains two relatively "trendy" topics - AI and octopus intelligence. While I can't say I found revolutionary insights, it was a nice meditation on the nature of intelligence and consciousness. Considering the physically distributed nature of an octopuses nervous system, one cannot help but wonder whether human fixation on hierarchies might be in part due to mirroring our own biology.
+
+As always, mild spoiler ahead; however, I do not think any of the notes here will hinder your enjoyment of the book should you choose to read it.
+
+## thoughts
+I love that this book is filled with quotes of a fictional book that makes me interested in the protagonist I would otherwise not feel as close to, this is a great example of 'show don't tell'; show me the lonely genius scientists feels a connection to the octopuses and really admires and believes in a world in which they build a culture by quoting her book, don't just tell me she cares - ingenious. 
 
 I enjoyed how this book treated consciousness - simply. As a sort of delusion created by self awareness in which the subject of the delusion is sufficiently convinced by it.
 
@@ -26,7 +36,7 @@ In the end, I found the book wrapped up in a somewhat rushed way. I did enjoy ho
 
 ## themes
 
-### incompréhensible nature of experience of others
+### incomprehensible nature of experience of others
 something akin to high-definition empathy. You could have guessed this from the "what is t is like to be a bat" reference.
 The theme is something that is carried over across the 3 main storylines: 
 * biologist/android/war veteran (who are all loners in their own way trying to find way to communicate and understand each other)
@@ -58,9 +68,8 @@ There were not many "puzzles" (of which I was hoping there would be more), but e
 
 > Each language decided what has meaning - and what does not. As native speakers, we are born inside this pattern, this semiotic cosmos
 
-> This society - what the call modern society, what we thing
-> K of as the most important time the world has ever known, simply because we are in it - is just the sausage made by grinding up history 
-> 
+> This society - what the call modern society, what we think of as the most important time the world has ever known, simply because we are in it - is just the sausage made by grinding up history 
+
 ## references
 
 This is a strange type of fiction, one that blends reality and interesting factoids with its own theories so seamlessly it becomes almost believable.
