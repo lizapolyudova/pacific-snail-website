@@ -52,7 +52,6 @@ But where was I. Ah yes. Being perceived as a threat is an interesting thing - I
 I think this book deals well with considering (even if soewhat at a distance) this feeling of being a threat to someone you have deep curiosity for and mean no harm to. Further complicated by the fact that not only are you *perceived* as a threat, but in a sense... their suspicions are justified and you very much are a threat to them. 
 
 I don't consider myself particularly threatening, but this book has made me reconsider inaction and negligence as the primary drivers of harm we do to each other.
-
 ### language and symbols
 
 This book goes a bit in circles explaining importance of symbols. Many of us first encounter this idea in some form of "did you know some societies have 50 words for snow" or "did you know that there are language which don't contain the color orange and thus people dont 'see' orange"

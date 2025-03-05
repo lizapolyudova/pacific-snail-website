@@ -7,7 +7,11 @@ tags:
 draft: false
 Date: 2025-02-12T00:12:00
 ---
+## intro/synopsis
+The premise of the book is simple: a recently theater actor and director buys a house in remote countryside by the ocean in an effort to find peace and quiet away from London theater scene and all the drama associated with it. 
+Serendipitously, he encounteres his long-lost first love and attempts to rekindle a relationship with her. The rest is history I suppose.
 
+## thoughts
 
 I did not at first feel like writing about this book. From the start, I found the protagonist laughable at best and really - quite despicable. Dull, self-aggrandizing, quite petty. For any genuine praise he managed to give to any of his "friends" in describing them, he would undoubtedly follow it up with many more back-handed compliments and many times outright insults. He seemed obsessed with youth and appearances. I dreaded spending 500 pages in his world.
 
