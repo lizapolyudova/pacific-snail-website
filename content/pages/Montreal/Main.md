@@ -14,7 +14,7 @@ draft: true
 * winter is great for skating, lots of rinks open to the public/free https://montreal2.qc.ca/ski/conditions_patinoires_arr.php
 * Hydro-quebec dams are opens for tours summer (jun-sept) but only offered in french http://www.hydroquebec.com/visit/laval/prairie.html
 * Urbex (pink house, incinerator near Rosemont)
-* [Sacred harp]({{< ref "Sacred harp" >}}) meets on Tuesday at 7pm
+* [ ] [Sacred harp]({{< ref "Sacred harp" >}}) meets on Tuesday at 7pm
 
 * art tours ?
 * street art/mural tour #streetart 

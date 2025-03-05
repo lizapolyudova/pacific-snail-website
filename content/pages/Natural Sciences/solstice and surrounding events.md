@@ -21,11 +21,6 @@ We attempt and earth model with a yarn - it is entirely insufficient. I place my
 * is it the case that latest sunrise would happen on the day of the solstice and starting from that, the day would start to increase?
 * is the difference due to the elliptic orbit of the earth which has its longer radius that does not exactly match the "peak" position at the solstices?
 
-almost none are correct as it turns out
-We start plotting.
-
-Here's a sin wave for the sunrise. Starting at the fall equinox. going up (hours on the day) towards winter solstice and falling back down through "zero" towards summer solstice for its earliest (or so I think at the time) - point. Let's call this one point of reference
-
 
 {{% aside %}}
 parameter naming guide: 

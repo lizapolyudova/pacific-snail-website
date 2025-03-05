@@ -24,6 +24,8 @@ I would go as far as to say this is the reason I started the website. I've made 
 
 ## Montreal
 * [Nelligan Catalogue](https://nelligandecouverte.ville.montreal.qc.ca/iii/encore/?lang=frc)  - Montreal public libraries catalogue
+* [BANQ Catalogue](https://cap.banq.qc.ca/)
+* 
 
 ## Personal / Social
 * [storygraph link](https://app.thestorygraph.com/profile/pacificsnail)

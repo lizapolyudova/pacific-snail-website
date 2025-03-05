@@ -12,6 +12,21 @@ It's always funny to read introductions like that; a retrospective masking as a 
 
 It does well to prepare the reader for the description-dense style, the perspective switch with each character and section. I am not sure if I've already written [on forewords]({{< ref "on forewords" >}}), how they can guide towards interpretations, how they lead your gaze, how they prompt anticipation for themes and imagery. When seen for the second time, the eye find comfort, a curiosity of recognition rather than spotting for the first time. I have grown to like the feeling of recognition.
 
+
+## overall
+I enjoyed the book quite a bit while reading. Jeff VanderMeer never disappoints with his prose. The largest section (3) of the story takes a toke of an adventure game: constantly on a mission, constantly moving. Side-tracked by smaller quests which bend the narrative even closer to the main line. I suppose it is just the last section detailing Shadrach 
+
+Characters come and go, fade as they typically would once they've fulfilled their plot functions. Creatures are unusually helpful as they would be to one on a "quest". 
+
+I found that pacing surreal and entertaining. 
+The world for the most part allowed me to dive into it and really explore the madness of this human-led evolution, the complex and unnecesary closed ecosystems of each floor which only get more nightmarish as we descend down the dante-like circles of veniss. 
+
+It did seem like there were a lot of loose ends and I didn't really get the answers I was hoping for (while anticlimactic, it does makes sense in the context of the book that the posed questions didn't really have an answer)
+
+A lot of themes VanderMeer later develops in his writing are seen here in their nascence. If you enjoy his writing and want a weird cyber-punk world with bioengineering in it - I would recommend this.
+
+I would 
+
 ## style 
 
 ### adventure game
